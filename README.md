@@ -3,7 +3,7 @@
 I'm a Senior Cloud Solutions Architect at AWS and ex-CTO of a Web Development Agency (Digital Marmalade).
 
 - I [blog](https://deanlj.blog) occasionally.
-- I'm no longer posting on XTwitter, find me on [BlueSky](https://bsky.app/profile/deanlj.social)).
+- I'm no longer posting on XTwitter, find me on [BlueSky](https://bsky.app/profile/deanlj.social).
 - I'm on other [Social platforms](https://deanlj.blog/where) if you have moved on from XTwitter.
 
 <!--
